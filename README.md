@@ -1,7 +1,5 @@
 # Mutual_Funds_India_PowerBi
 
-# Social_Media_Engagement_PowerBi
-
 # Project Description: Mutual Fund Performance Analysis in Power BI
 
 This project analyzes mutual fund performance data from different Asset Management Companies (AMCs). The dataset contains 1,088 records with details about mutual funds, including their category, risk type, ratings, and returns across multiple time horizons (1-year, 3-year, and 5-year).
